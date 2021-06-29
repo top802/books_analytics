@@ -14,7 +14,7 @@
 	<name>books-analytics</name>
 	<description>test rest api to manage books</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>9</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
